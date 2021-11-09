@@ -21,6 +21,8 @@ The WorkWeek desktop application allows employees to view thier schedules, reque
 ## Instructions
 A comprehensive guide to the installation and use of the WorkWeek desktop application can be found [here](docs/instructions/).
 
+## Changelog
+The WorkWeek changelog can be found [here](docs/changelog.md).
 
 ## Credits
 ##### The Pink Pumpkins
