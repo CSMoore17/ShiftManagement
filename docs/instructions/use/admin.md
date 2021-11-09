@@ -1,3 +1,3 @@
 # How to Use
-## Admin Edition
+## Admin
 TBA
