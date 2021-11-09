@@ -19,7 +19,7 @@ The WorkWeek desktop application is built around the idea that schedule manageme
 The WorkWeek desktop application allows employees to view thier schedules, request time off, offer their scheduled shifts to co-workers, claim offered shifts, view hours worked, calculate pay, and make anonymous reports to administrators.  It also allows administrators to create logins for employees, edit employee schedule and pay information, approve or deny shift cancellations or exchanges, and view anonymous reports.  The application also allows higher-ups to look up employee information.
 
 ## Instructions
-A comprehensive guide to the installation and use of the WorkWeek desktop application can be found [here](docs/instructions/)
+A comprehensive guide to the installation and use of the WorkWeek desktop application can be found [here](docs/instructions/).
 
 
 ## Credits
@@ -31,4 +31,4 @@ A comprehensive guide to the installation and use of the WorkWeek desktop applic
 - Michael Emory, Documenter
 
 ## License
-TBA
+License information for WorkWeek can be found [here](docs/license.md).
