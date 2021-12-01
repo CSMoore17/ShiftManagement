@@ -1,0 +1,111 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{			/* if you want to change the root node */
+	-fx-background-color: #a1caf1; /* can use hexadecimal or Color strings */
+}
+
+
+.label{			/* targets the entire Label class */
+	-fx-font-size: 15;
+	-fx-font-family: "Times New Roman";
+	-fx-text-fill: #36454f;
+}
+
+.button{
+	-fx-background-color: #36454f;
+	-fx-text-fill: "white";
+}
+
+.button:hover{
+	-fx-background-color: #40525e;
+}
+
+.button:pressed{
+	-fx-background-color: #4b606d;
+}
+
+#nameLabel{	/* targets our specific titleLable object from our scene builder */
+	-fx-font-size: 30;
+	-fx-alignment: center;
+}
+
+/* Main.fxml sytling */
+#mainVBox{
+	-fx-background-color: #36454f;
+}
+
+
+#titlePane{
+	-fx-background-color: #36454f;
+}
+
+#titleLabel{
+	-fx-background-color: #36454f;
+	-fx-font-family: "Times New Roman";
+	-fx-text-fill: "white";
+	-fx-alignment: center;
+	-fx-font-size: 25;
+	-fx-font-weight: bold;
+}
+
+#mainStackPane{
+	-fx-border-color: black;
+	-fx-background-color: #D4E1F5;
+}
+
+/* Admin.fxml styling */
+#adminVBox{
+	-fx-background-color: #36454f;
+}
+
+#adminStackPane{
+	-fx-border-color: black;
+	-fx-background-color: #D4E1F5;
+}
+
+#invalidUsername{
+	-fx-text-fill: red;
+}
+
+#invalidPassword{
+	-fx-text-fill: red;
+}
+
+#invalidEmp{
+	-fx-text-fill: red;
+}
+
+#invalidDate{
+	-fx-text-fill: red;
+}
+
+#invalidStart{
+	-fx-text-fill: red;
+}
+
+#invalidEnd{
+	-fx-text-fill: red;
+}
+
+/* Login.fxml styling */
+#loginLabel{
+	-fx-alignment: center;
+	-fx-font-size: 15;
+	-fx-font-family: "Times New Roman";
+	-fx-text-fill: "black";
+	-fx-font-size: 50;
+}
+
+#invalidLabel{
+	-fx-text-fill: red;
+}
+
+#usernameLabel{
+	-fx-alignment: center-right;
+	-fx-font-family: "Times New Roman";
+}
+
+#passwordLabel{
+	-fx-alignment: center-right;
+	-fx-font-family: "Times New Roman";
+}
