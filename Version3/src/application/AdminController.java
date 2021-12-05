@@ -49,7 +49,7 @@ public class AdminController {
 	
 	@FXML	//Very important line
 	StackPane adminStackPane;
-	Label firstLabel = new Label("Representation of Home Screen");
+	Label firstLabel = new Label();
 	Label testLabel;
 	
 	@FXML	//Very important line
