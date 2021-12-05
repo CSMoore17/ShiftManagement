@@ -56,7 +56,7 @@ public class Controller {
 	
 	@FXML	//Very important line
 	StackPane mainStackPane;
-	Label firstLabel = new Label("Representation of Home Screen");
+	Label firstLabel = new Label();
 	Label testLabel;
 	
 	@FXML	//Very important line
