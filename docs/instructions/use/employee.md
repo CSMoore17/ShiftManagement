@@ -1,10 +1,9 @@
-# How to Use
-##Employee User Guide
-##### Login and Logout
+# How to Use - Employee User Guide
+## Login and Logout
 To log into your account, simply type in your employee ID and password assigned to you by your admin.
 To log out of your account, simply click the Logout button in the top right corner of the menu.
 
-##### Schedule
+## Schedule
 To view your schedule, click the Schedule tab on the left side of the menu.
 From here, you can view your scheduled shifts and select shifts to offer to coworkers.
 
@@ -20,12 +19,12 @@ in yyyy-mm-dd format, or you may select these dates by clicking the appropriate 
 to the right of the aforementioned text boxes.  Once you have selected your start and end date,
 click submit and await admin approval or denial.
 
-##### Hours and Pay
+## Hours and Pay
 To view how many hours you have worked and how much money you have earned, click the Hours & Pay tab on the left side of the menu.
 From here, you can view how many hours you have worked and how much money you have earned in the past week, month, or year.
 To switch between the three time intervals, click the drop down box and select an option.
 
-##### Anonymous Report
+## Anonymous Report
 Are you getting harrassed by a coworker and desire to discuss it with your boss privately?
 Would you like to point out a safety concern without making a scene?
 Is there something you want to confess to your boss privately?
