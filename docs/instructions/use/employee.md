@@ -33,5 +33,7 @@ If you'd like to send your boss a discrete message, you can make an anonymous re
 Select the Anonymous Report tab on the left hand side of the menu.
 From here, you may type a message you your admin.  Keep in mind that this report is anonymous,
 so the recipient will not know that you sent it unless you include your name in the message.
+
 !!!WARNING: DUE TO AN UNRESOLVED BUG, ANY MESSAGES WITH AN APOSTROPHE (') WILL NOT BE RECIEVED!!!
+
 Once you have finished typing your message, click the Submit button at the bottom to send it to your admin.
