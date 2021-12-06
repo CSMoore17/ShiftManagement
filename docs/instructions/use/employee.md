@@ -1,7 +1,7 @@
 # How to Use - Employee User Guide
 ## Login and Logout
-To log into your account, simply type in your employee ID and password assigned to you by your admin.
-To log out of your account, simply click the Logout button in the top right corner of the menu.
+To log into your account, simply type in your username and password assigned to you by your admin.
+To log out of your account, click the Logout button in the top right corner of the menu.
 
 ## Schedule
 To view your schedule, click the Schedule tab on the left side of the menu.
