@@ -1,3 +1,3 @@
-# How to Use
-## Admin
+# How to Use - Admin User Guide
+## Login and Logout
 TBA
