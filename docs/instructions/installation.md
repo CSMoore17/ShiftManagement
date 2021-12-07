@@ -1,9 +1,10 @@
 # How to Install
 ## Windows
-TBA
+Step 1:
+docker stuff
 
-## Linux
-TBA
+Step 2:
+xhost stuff
 
-## Mac
-TBA
+Step 3:
+actual steps begin?  idk i forgor
