@@ -1,10 +1,20 @@
 # How to Install
 ## Windows
 Step 1:
-docker stuff
+Install Docker Desktop, create an account, and log in via the Docker Desktop app.
+To get started, follow this link: https://docs.docker.com/get-docker/
 
 Step 2:
-xhost stuff
+Download and install xhost at this link:
+
 
 Step 3:
-actual steps begin?  idk i forgor
+Open the command prompt and enter this command:
+Docker pull ccdrk13/csci540v3
+
+Step 4:
+Open xhost and leave it running
+
+Step 5:
+In the command prompt, enter this command and your app should be running:
+docker run -it --rm -e DISPLAY=host.docker.internal:0.0 ccdrk13/csci540v3
