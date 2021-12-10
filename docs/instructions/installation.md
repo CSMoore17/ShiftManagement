@@ -4,6 +4,8 @@ Step 1:
 Install Docker Desktop, create an account, and log in via the Docker Desktop app.
 To get started, follow this link: https://docs.docker.com/get-docker/
 
+To use docker desktop, you may need to enable Hardware Assisted Virtualization in your systems BIOS.
+
 Step 2:
 Download and install xhost at this link:
 
